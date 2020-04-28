@@ -1,0 +1,1 @@
+Type "coindex" in the Terminal to use Commands and Options in this application. 
